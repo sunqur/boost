@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\bin\Debug\notlar.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\bin\Debug\notlar.exe
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\bin\Debug\notlar.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\obj\Debug\notlar.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\obj\Debug\notlar.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\obj\Debug\notlar.exe
+C:\Users\mustafa sungur taş\source\repos\boost\notlar\notlar\obj\Debug\notlar.pdb
