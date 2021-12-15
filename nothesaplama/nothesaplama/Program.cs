@@ -22,23 +22,23 @@ namespace nothesaplama
             {
                 ort = 1;
             }
-            else if (ort == 1 || ort < 45)
+            else if (ort >= 1 && ort < 45)
             {
                 ort = 2;
             }
-            else if (ort == 45 || ort < 55)
+            else if (ort >= 45 && ort < 55)
             {
                 ort = 3;
             }
-            else if (ort == 55 || ort < 70)
+            else if (ort >= 55 && ort < 70)
             {
                 ort = 4;
             }
-            else if (ort == 70 || ort < 85)
+            else if (ort >= 70 && ort < 85)
             {
                 ort = 5;
             }
-            else if (ort == 85 || ort < 100)
+            else if (ort >= 85 && ort < 100)
             {
                 ort = 6;
             }
