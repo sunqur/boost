@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\bin\Debug\nothesaplama.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\bin\Debug\nothesaplama.exe
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\bin\Debug\nothesaplama.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\obj\Debug\nothesaplama.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\obj\Debug\nothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\obj\Debug\nothesaplama.exe
+C:\Users\mustafa sungur taş\source\repos\boost\nothesaplama\nothesaplama\obj\Debug\nothesaplama.pdb
