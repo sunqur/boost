@@ -13,9 +13,9 @@ namespace notlar
             Console.WriteLine("Hoşgeldiniz...");
             Console.WriteLine("------------------");
             Console.WriteLine("1. sınavın notu");
-            int not1 = Convert.ToInt32(Console.ReadLine());
+            double not1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("2. sınavın notu");
-            int not2 = Convert.ToInt32(Console.ReadLine());
+            double not2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("------------------");
             double ort = (not1 + not2) / 2;
             if (ort>=0 && ort<45)

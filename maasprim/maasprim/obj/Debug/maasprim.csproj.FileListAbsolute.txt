@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\bin\Debug\maasprim.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\bin\Debug\maasprim.exe
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\bin\Debug\maasprim.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\obj\Debug\maasprim.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\obj\Debug\maasprim.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\obj\Debug\maasprim.exe
+C:\Users\mustafa sungur taş\source\repos\boost\maasprim\maasprim\obj\Debug\maasprim.pdb
