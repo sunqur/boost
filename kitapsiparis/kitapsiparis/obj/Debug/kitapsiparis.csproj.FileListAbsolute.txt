@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\bin\Debug\kitapsiparis.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\bin\Debug\kitapsiparis.exe
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\bin\Debug\kitapsiparis.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\obj\Debug\kitapsiparis.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\obj\Debug\kitapsiparis.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\obj\Debug\kitapsiparis.exe
+C:\Users\mustafa sungur taş\source\repos\boost\kitapsiparis\kitapsiparis\obj\Debug\kitapsiparis.pdb
