@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\mustafa sungur taş\source\repos\triangle\triangle\obj\Debug\triangle.pdb
