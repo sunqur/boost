@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\bin\Debug\diziodevi.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\bin\Debug\diziodevi.exe
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\bin\Debug\diziodevi.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\obj\Debug\diziodevi.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\obj\Debug\diziodevi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\obj\Debug\diziodevi.exe
+C:\Users\mustafa sungur taş\source\repos\boost\diziodevi\diziodevi\obj\Debug\diziodevi.pdb
