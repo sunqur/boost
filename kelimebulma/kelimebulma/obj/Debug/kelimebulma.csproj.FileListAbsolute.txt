@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\bin\Debug\kelimebulma.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\bin\Debug\kelimebulma.exe
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\bin\Debug\kelimebulma.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\obj\Debug\kelimebulma.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\obj\Debug\kelimebulma.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\obj\Debug\kelimebulma.exe
+C:\Users\mustafa sungur taş\source\repos\boost\kelimebulma\kelimebulma\obj\Debug\kelimebulma.pdb
