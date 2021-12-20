@@ -24,25 +24,25 @@ namespace diziler3
             //string ara = Console.ReadLine();
             //Console.Write(Array.IndexOf(sehir, ara) + 1 + ". Elemanıdır");
 
-            //int[] sayilar = new int[50];
-            //Random rnd = new Random();
+            int[] sayilar = new int[50];
+            Random rnd = new Random();
 
-            //for (int i = 0; i < 50; i++)
-            //{
-            //    sayilar[i] = rnd.Next(1, 51);
-            //    for (int k = 0; k < i; k++)
-            //    {
-            //        if (sayilar[k] == sayilar[i])
-            //        {
-            //            i--;
-            //        }
-            //    }
-            //}
-            //Array.Sort(sayilar);
-            //for (int a = 0; a < 50; a++)
-            //{
-            //    Console.Write(sayilar[a] + "\t");
-            //}
+            for (int i = 0; i < 50; i++)
+            {
+                sayilar[i] = rnd.Next(1, 51);
+                for (int k = 0; k < i; k++)
+                {
+                    if (sayilar[k] == sayilar[i])
+                    {
+                        i--;
+                    }
+                }
+            }
+            Array.Sort(sayilar);
+            for (int a = 0; a < 50; a++)
+            {
+                Console.Write(sayilar[a] + "\t");
+            }
 
             Console.WriteLine("Hoşgeldiniz....");
             Console.WriteLine("Kayıt sayısını giriniz....");

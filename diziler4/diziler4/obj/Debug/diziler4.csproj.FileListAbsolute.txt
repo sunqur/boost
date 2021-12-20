@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\bin\Debug\diziler4.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\bin\Debug\diziler4.exe
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\bin\Debug\diziler4.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\obj\Debug\diziler4.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\obj\Debug\diziler4.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\obj\Debug\diziler4.exe
+C:\Users\mustafa sungur taş\source\repos\boost\diziler4\diziler4\obj\Debug\diziler4.pdb
