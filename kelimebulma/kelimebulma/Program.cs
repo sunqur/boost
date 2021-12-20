@@ -61,7 +61,30 @@ namespace kelimebulma
             //    sira++;
             //}
 
+            Console.WriteLine("hoş geldiniz... Lütfen 10 adet sayı giriniz");
 
+            double[] dizi = new double[10];
+
+            for (int i = 0; i < dizi.Length; i++)
+            {
+                sayi:
+                double sayi = Convert.ToDouble(Console.ReadLine());
+                if (sayi>100)
+                {
+                    dizi[i] = sayi;
+                }
+                else
+                {
+                    Console.WriteLine("Sayı 100den büyük olmalıdır");
+                    goto sayi;
+
+                }
+            }
+
+            foreach (var item in dizi)
+            {
+                Console.Write(item + "\t");
+            }
 
 
             Console.ReadLine();
