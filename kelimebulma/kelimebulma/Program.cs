@@ -61,32 +61,50 @@ namespace kelimebulma
             //    sira++;
             //}
 
-            Console.WriteLine("hoş geldiniz... Lütfen 10 adet sayı giriniz");
+            //Console.WriteLine("hoş geldiniz... Lütfen 10 adet sayı giriniz");
 
-            double[] dizi = new double[10];
+            //double[] dizi = new double[10];
 
-            for (int i = 0; i < dizi.Length; i++)
+            //for (int i = 0; i < dizi.Length; i++)
+            //{
+            //    sayi:
+            //    double sayi = Convert.ToDouble(Console.ReadLine());
+            //    if (sayi>=100)
+            //    {
+            //        dizi[i] = sayi;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Sayı 100den büyük olmalıdır");
+            //        goto sayi;
+
+            //    }
+            //}
+
+            //foreach (var item in dizi)
+            //{
+            //    Console.Write(item + "\t");
+            //}
+
+
+            
+            char[] sesli = {'a','e','ı','i', 'o', 'ö', 'u', 'ü' };
+            Console.WriteLine("bir cümle giriniz:"); //dışarıdan cümlemizi giriyoruz
+            string cumle = Console.ReadLine(); //cümlemizi değişkene aktarıyoruz
+            double  sayac = 0;
+            for (int i = 0; i < cumle.Length; i++)
             {
-                sayi:
-                double sayi = Convert.ToDouble(Console.ReadLine());
-                if (sayi>100)
+                for (int j = 0; j < sesli.Length; j++)
                 {
-                    dizi[i] = sayi;
+                    if (cumle[i] == sesli[j]) 
+                    {
+                        sayac++; 
+                    }
                 }
-                else
-                {
-                    Console.WriteLine("Sayı 100den büyük olmalıdır");
-                    goto sayi;
 
-                }
             }
-
-            foreach (var item in dizi)
-            {
-                Console.Write(item + "\t");
-            }
-
-
+            double oran = sayac/(cumle.Length);
+            Console.WriteLine("Sesli harfin sayısı : {0} ve Oranı : {1} ", sayac.ToString(),oran);
             Console.ReadLine();
         }
     }
