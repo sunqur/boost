@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\bin\Debug\ikiboyutluilkornek.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\bin\Debug\ikiboyutluilkornek.exe
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\bin\Debug\ikiboyutluilkornek.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\obj\Debug\ikiboyutluilkornek.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\obj\Debug\ikiboyutluilkornek.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\obj\Debug\ikiboyutluilkornek.exe
+C:\Users\mustafa sungur taş\source\repos\boost\ikiboyutluilkornek\ikiboyutluilkornek\obj\Debug\ikiboyutluilkornek.pdb
