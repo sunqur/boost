@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\bin\Debug\trycatch.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\bin\Debug\trycatch.exe
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\bin\Debug\trycatch.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\obj\Debug\trycatch.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\obj\Debug\trycatch.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\obj\Debug\trycatch.exe
+C:\Users\mustafa sungur taş\source\repos\boost\trycatch\trycatch\obj\Debug\trycatch.pdb

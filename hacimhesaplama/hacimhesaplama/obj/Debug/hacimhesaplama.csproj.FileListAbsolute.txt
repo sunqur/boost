@@ -1,0 +1,7 @@
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\bin\Debug\hacimhesaplama.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\bin\Debug\hacimhesaplama.exe
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\bin\Debug\hacimhesaplama.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\obj\Debug\hacimhesaplama.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\obj\Debug\hacimhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\obj\Debug\hacimhesaplama.exe
+C:\Users\mustafa sungur taş\source\repos\boost\hacimhesaplama\hacimhesaplama\obj\Debug\hacimhesaplama.pdb
