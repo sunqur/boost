@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\bin\Debug\GameSimulation.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\bin\Debug\GameSimulation.exe
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\bin\Debug\GameSimulation.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\obj\Debug\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\obj\Debug\GameSimulation.exe
+C:\Users\mustafa sungur taş\source\repos\boost\GameSimulation\GameSimulation\obj\Debug\GameSimulation.pdb

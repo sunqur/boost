@@ -8,9 +8,10 @@ namespace metotlar2
 {
     internal class calisma
     {
+
         public double bakiye;
-        
-        public void  yemek()
+
+        public void yemek()
         {
             string[] yemekler = { "Çorba", "Kuru Fasulye", "Pilav", "Kebap", "Tavuk Dürüm" };
             int[] fiyat = { 5, 30, 16, 19, 35 };
@@ -19,7 +20,7 @@ namespace metotlar2
             {
                 Console.WriteLine((i + 1) + ") " + yemekler[i] + "   =    " + fiyat[i]);
             }
-            sec:
+        sec:
             Console.Write(" Almak istediğiniz yemeği seçiniz : ");
             int sec = Convert.ToInt32(Console.ReadLine());
 

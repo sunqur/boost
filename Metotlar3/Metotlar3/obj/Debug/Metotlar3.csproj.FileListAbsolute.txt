@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\bin\Debug\Metotlar3.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\bin\Debug\Metotlar3.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\bin\Debug\Metotlar3.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\obj\Debug\Metotlar3.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\obj\Debug\Metotlar3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\obj\Debug\Metotlar3.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\obj\Debug\Metotlar3.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Metotlar3\Metotlar3\obj\Debug\Metotlar3.pdb

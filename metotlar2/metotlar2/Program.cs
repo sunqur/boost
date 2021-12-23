@@ -66,7 +66,7 @@ namespace metotlar2
                             goto sec;
                             break;
                     }
-                } while (c.bakiye < 50);
+                } while (true);
                 Console.Write("Kalan bakiyeniz : " + c.bakiye);
             }
             else
