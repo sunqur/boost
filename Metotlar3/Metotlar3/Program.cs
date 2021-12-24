@@ -44,8 +44,8 @@ namespace Metotlar3
             SayiUretme uret = new SayiUretme();
             
 
-            Console.Write(uret.SayiTut(1));
-            Console.Write(uret.SayiTut(2));
+            Console.WriteLine(uret.SayiTut(true));
+            Console.WriteLine(uret.SayiTut(false));
 
             #endregion
 

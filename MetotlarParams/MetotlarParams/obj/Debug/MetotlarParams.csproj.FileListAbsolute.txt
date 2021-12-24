@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\bin\Debug\MetotlarParams.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\bin\Debug\MetotlarParams.exe
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\bin\Debug\MetotlarParams.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\obj\Debug\MetotlarParams.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\obj\Debug\MetotlarParams.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\obj\Debug\MetotlarParams.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\obj\Debug\MetotlarParams.exe
+C:\Users\mustafa sungur taş\source\repos\boost\MetotlarParams\MetotlarParams\obj\Debug\MetotlarParams.pdb

@@ -9,24 +9,25 @@ namespace Metotlar3
     internal class SayiUretme
     {
         Random rnd = new Random();
-        int sonuc=0;
-        public int SayiTut(int girilen)
+
+        public int SayiTut(bool girilen)
         {
-            if (girilen==1)
+            int sonuc = 0, tekCiftKontrol;
+            if (girilen == true)
             {
-                int rastgele = rnd.Next(100);
-                if (rastgele%2==1)
+                do
                 {
-                    sonuc = rastgele;
-                }
+                    sonuc = rnd.Next(100);
+                    tekCiftKontrol = sonuc % 2;
+                } while (tekCiftKontrol!=1);
             }
-            else
+            if (girilen == false)
             {
-                int rastgele = rnd.Next(100);
-                if (rastgele % 2 == 0)
+                do
                 {
-                    sonuc = rastgele;
-                }
+                    sonuc = rnd.Next(100);
+                    tekCiftKontrol = sonuc % 2;
+                } while (tekCiftKontrol != 0);
             }
             return sonuc;
         }

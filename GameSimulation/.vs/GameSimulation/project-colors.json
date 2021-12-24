@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abc948c3-2f17-4d4b-8d8c-fa65c85f74c0": {
+      "ProjectGuid": "abc948c3-2f17-4d4b-8d8c-fa65c85f74c0",
+      "DisplayName": "GameSimulation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
