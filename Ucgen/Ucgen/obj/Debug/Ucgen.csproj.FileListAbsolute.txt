@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\bin\Debug\Ucgen.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\bin\Debug\Ucgen.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\bin\Debug\Ucgen.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\obj\Debug\Ucgen.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\obj\Debug\Ucgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\obj\Debug\Ucgen.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\obj\Debug\Ucgen.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Ucgen\Ucgen\obj\Debug\Ucgen.pdb

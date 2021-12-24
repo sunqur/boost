@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\bin\Debug\KimlikNo.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\bin\Debug\KimlikNo.exe
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\bin\Debug\KimlikNo.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\obj\Debug\KimlikNo.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\obj\Debug\KimlikNo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\obj\Debug\KimlikNo.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\obj\Debug\KimlikNo.exe
+C:\Users\mustafa sungur taş\source\repos\boost\KimlikNo\KimlikNo\obj\Debug\KimlikNo.pdb
