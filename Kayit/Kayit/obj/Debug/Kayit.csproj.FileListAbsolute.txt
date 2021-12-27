@@ -1,0 +1,11 @@
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\bin\Debug\Kayit.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\bin\Debug\Kayit.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\bin\Debug\Kayit.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.Form1.resources
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.Properties.Resources.resources
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.csproj.GenerateResource.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Kayit\Kayit\obj\Debug\Kayit.pdb

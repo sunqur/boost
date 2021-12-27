@@ -1,0 +1,8 @@
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\bin\Debug\RecursiveOdevi.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\bin\Debug\RecursiveOdevi.exe
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\bin\Debug\RecursiveOdevi.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\obj\Debug\RecursiveOdevi.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\obj\Debug\RecursiveOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\obj\Debug\RecursiveOdevi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\obj\Debug\RecursiveOdevi.exe
+C:\Users\mustafa sungur taş\source\repos\boost\RecursiveOdevi\RecursiveOdevi\obj\Debug\RecursiveOdevi.pdb

@@ -1,0 +1,12 @@
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\bin\Debug\Formsilk.exe.config
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\bin\Debug\Formsilk.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\bin\Debug\Formsilk.pdb
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.csproj.AssemblyReference.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.Form1.resources
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.Form2.resources
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.Properties.Resources.resources
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.csproj.GenerateResource.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.csproj.CoreCompileInputs.cache
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.exe
+C:\Users\mustafa sungur taş\source\repos\boost\Formsilk\Formsilk\obj\Debug\Formsilk.pdb
